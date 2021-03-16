@@ -1,5 +1,5 @@
 module.exports = {
-  Workouts: require("./Workouts"),
+  Workouts: require("./workout.js"),
 };
 //to: change the schema below to make sense for this hwk
 // const exerciseSchema = new Schema({

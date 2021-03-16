@@ -12,7 +12,7 @@ router.get("/stats", (req, res) => {
 // Export routes for server.js to use.
 module.exports = router;
 
-//i think this is the html.vie
+
 
 // router.post("/api/transaction", ({ body }, res) => {
 //   Transaction.create(body)
